@@ -1,0 +1,26 @@
+//items
+item.riqochet_holograph_scythe_head.name=Riqochet Holograph Scythe Head
+item.riqochet_holograph_scythe_blade_centre.name=Riqochet Holograph Scythe Blade Centre
+item.riqochet_holograph_scythe_blade_front.name=Riqochet Holograph Scythe Blade Front
+item.riqochet_holograph_scythe_blade_back.name=Riqochet Holograph Scythe Blade Back
+item.riqochet_holograph_scythe_staff.name=Riqochet Holograph Scythe Staff
+item.riqochet_holograph_scythe_end.name=Riqochet Holograph Scythe End
+item.icon.name=Icon
+item.helmet_hardlight.name=Hardlight Helmet
+item.chestplate_hardlight.name=Hardlight Chestplate
+item.leggings_hardlight.name=Hardlight Leggings
+item.boots_hardlight.name=Hardlight Boots
+item.ingot_hardlight.name=Hardlight Ingot
+item.riqochet_holograph_scythe.name=Riqochet Holograph
+item.riqochet_holograph_sniper.name=Riqochet Holograph
+item.riqochet_holograph_rocket.name=Riqochet Holograph
+item.riqochet_holograph_piercing_laser.name=Riqochet Holograph
+
+//blocks
+tile.hardlight_forge.name=Hardlight Forge
+
+//Group
+itemGroup.rwbyfmtab=RWBY Fan Mod
+
+//Container
+container.hardlight_forge=Hardlight Forge

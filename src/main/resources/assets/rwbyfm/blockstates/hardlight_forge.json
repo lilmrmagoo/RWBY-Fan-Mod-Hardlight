@@ -1,0 +1,10 @@
+{
+    "variants": 
+    {
+        "active=false,facing=south": { "model": "rwbyfm:hardlight_forge" },
+        "active=false,facing=north": { "model": "rwbyfm:hardlight_forge", "y": 90 },
+        "active=false,facing=east": { "model": "rwbyfm:hardlight_forge", "y": 180 },
+        "active=false,facing=west": { "model": "rwbyfm:hardlight_forge", "y":270 },
+        "active=true,facing=north": { "model": "rwbyfm:active_hardlight_forge" }
+    }
+}

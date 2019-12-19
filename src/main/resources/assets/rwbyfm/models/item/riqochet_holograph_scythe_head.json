@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+       "layer0": "rwbyfm:items/riqochet_holograph_scythe_head"
+   }
+}

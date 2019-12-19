@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "abc",
+        " ed",
+        "f  "
+    ],
+    "key": {
+            "a": {"item": "rwbyfm:riqochet_holograph_scythe_blade_front"},
+            "b": {"item": "rwbyfm:riqochet_holograph_scythe_blade_centre"},
+            "c": {"item": "rwbyfm:riqochet_holograph_scythe_head"},
+            "d": {"item": "rwbyfm:riqochet_holograph_scythe_blade_back"},
+            "e": {"item": "rwbyfm:riqochet_holograph_scythe_staff"},
+            "f": {"item": "rwbyfm:riqochet_holograph_scythe_end"}
+            },
+          "result": {
+              "item": "rwbyfm:riqochet_holograph",
+              "count": 1
+          }
+}

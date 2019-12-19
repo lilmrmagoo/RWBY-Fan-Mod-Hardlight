@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "aaa",
+        "aba",
+        "aaa"
+    ],
+    "key": {
+            "a": {"item": "rwbym:dustcrystalhardlight"},
+            "b": {"item": "rwbym:cr2"}
+            },
+          "result": {
+              "item": "rwbyfm:riqochet_holograph_scythe_blade_centre",
+              "count": 1
+          }
+}
