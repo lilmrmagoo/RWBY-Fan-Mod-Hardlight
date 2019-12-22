@@ -166,6 +166,8 @@ public class ItemInit
 		registerItems(event, ItemInit.RIQOCHET_HOLOGRAPH_SCYTHE_HEAD);
 		registerItems(event, ItemInit.RIQOCHET_HOLOGRAPH_SCYTHE_STAFF);*/
 		registerItems(event, ItemInit.RIQOCHET_HOLOGRAPH_SNIPER);
+		registerItems(event, ItemInit.CLAW_FANG_SCY);
+		registerItems(event, ItemInit.Claw_FANG);
 	}
 
 	private static void registerItems(FMLPreInitializationEvent event, Item...items) {
