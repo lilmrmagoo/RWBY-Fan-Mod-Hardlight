@@ -114,6 +114,40 @@ public class ItemInit
 			1,
 			1,
 			null).setRecoil(0);
+	public static final Item CLAW_FANG_SCY = new RWBYGunAddon(
+			"clawfangscy"
+			2500, 
+			17
+			RWBYMGunAddon.SCYTHE
+			"{AttributeModifiers:[{AttributeName:\"generic.attackDamage\",Name:\"generic.attackDamage\",Amount:18,Operation:0,UUIDLeast:571090,UUIDMost:892303,Slot:\"mainhand\"}]}", 
+			"rwbfm:clawfang"
+			"rwbym:nuller,rwbym:nulls", 
+			false, 
+			1, 
+			false, 
+			false, 
+			3, 
+			1, 
+			0, 
+			1, 
+			null).setRecoil(6);
+	public static final Item CLAW_FANG = new RWBYGunAddon(
+			"clawfang"
+			2500, 
+			17
+			RWBYMGunAddon.SWORD
+			"{AttributeModifiers:[{AttributeName:\"generic.attackDamage\",Name:\"generic.attackDamage\",Amount:18,Operation:0,UUIDLeast:571090,UUIDMost:892303,Slot:\"mainhand\"}]}", 
+			"rwbfm:clawfangscy"
+			"rwbym:nuller,rwbym:nulls", 
+			false, 
+			1, 
+			false, 
+			false, 
+			1, 
+			1, 
+			0, 
+			1, 
+			null).setRecoil(6);
 	
 	public static void registerAll(FMLPreInitializationEvent event){
 		/*registerItems(event, ItemInit.BOOTS_HARDLIGHT);
